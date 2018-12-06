@@ -1,6 +1,6 @@
-package havoc.support.lottie;
+package candy.support.lottie;
 
-import havoc.support.lottie.utils.MeanCalculator;
+import candy.support.lottie.utils.MeanCalculator;
 
 import org.junit.Before;
 import org.junit.Test;

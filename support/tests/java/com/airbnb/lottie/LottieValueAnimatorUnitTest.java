@@ -1,4 +1,4 @@
-package havoc.support.lottie;
+package candy.support.lottie;
 
 import android.animation.Animator;
 import android.animation.AnimatorListenerAdapter;
@@ -6,10 +6,10 @@ import android.graphics.Rect;
 import android.support.v4.util.LongSparseArray;
 import android.support.v4.util.SparseArrayCompat;
 
-import havoc.support.lottie.model.Font;
-import havoc.support.lottie.model.FontCharacter;
-import havoc.support.lottie.model.layer.Layer;
-import havoc.support.lottie.utils.LottieValueAnimator;
+import candy.support.lottie.model.Font;
+import candy.support.lottie.model.FontCharacter;
+import candy.support.lottie.model.layer.Layer;
+import candy.support.lottie.utils.LottieValueAnimator;
 
 import org.junit.Before;
 import org.junit.Test;

@@ -1,8 +1,8 @@
-package havoc.support.lottie;
+package candy.support.lottie;
 
 import android.util.JsonReader;
 
-import havoc.support.lottie.model.KeyPath;
+import candy.support.lottie.model.KeyPath;
 
 import org.junit.Before;
 import org.junit.Test;

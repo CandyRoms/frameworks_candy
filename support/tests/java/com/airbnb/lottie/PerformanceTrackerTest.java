@@ -1,4 +1,4 @@
-package havoc.support.lottie;
+package candy.support.lottie;
 
 import android.support.v4.util.Pair;
 
